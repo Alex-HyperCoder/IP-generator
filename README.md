@@ -2,7 +2,7 @@
 
 ONLY FOR PYTHON2.7
 
-pip intall netaddr
+pip install netaddr
 
 # Usage
 python ip_gen.py
